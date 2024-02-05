@@ -1,9 +1,9 @@
 import React from 'react';
-
+import Banner from './components/Banner/banner';
 function App() {
   return (
 <div>
-
+<Banner/>
 </div>
   );
 }
